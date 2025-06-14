@@ -1,0 +1,12 @@
+{
+  "name": "cryptography-concepts",
+  "version": "1.0.0",
+  "description": "Cryptography concepts examples",
+  "main": "hash.js",
+  "scripts": {
+    "start": "node hash.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1"
+  }
+} 
