@@ -21,7 +21,7 @@ This repository contains examples of various cryptography concepts implemented i
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/MokhtarLahjaily/CryptographyConcepts.git)
    cd CryptographyConcepts
    ```
 
@@ -69,6 +69,3 @@ node random/secure-random.js
 - `node-forge`: For certificate generation and verification.
 - `scrypt-js`: For password salting.
 
-## License
-
-This project is licensed under the ISC License. 
