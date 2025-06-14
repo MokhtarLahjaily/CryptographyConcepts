@@ -21,7 +21,7 @@ This repository contains examples of various cryptography concepts implemented i
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/MokhtarLahjaily/CryptographyConcepts.git)
+   git clone https://github.com/MokhtarLahjaily/CryptographyConcepts.git
    cd CryptographyConcepts
    ```
 
